@@ -101,7 +101,7 @@ header {
 }
 
 .hero-container {
-  background-image: url("../Assets/main-banner.jpg");
+  background-image: url("../assets/main-banner.jpg");
   background-size: cover; 
   background-position: center;
   background-repeat: no-repeat;
@@ -253,7 +253,7 @@ header {
 
 .our-vision-container {
   height: 250px;
-  background-image: url(../Assets/vision.jpg);
+  background-image: url(../assets/vision.jpg);
   background-position: center;
   background-size: cover;
 }
